@@ -1,0 +1,25 @@
+.about {
+    width: 80%;
+    margin: 50px auto;
+    background-color:rgb(0, 255, 251);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 ;
+}
+body {
+    background-color: rgb(227, 128, 214);
+    color: #333;
+    line-height: 1.6;
+}
+
+.about h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.about p {
+    color: #555;
+    line-height: 1.6;
+    text-align: center;
+}
