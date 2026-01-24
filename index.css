@@ -113,7 +113,7 @@ nav ul li a.active {
 
 .btn.primary {
     background-color: blue;
-    color: white;
+    color: blue;
 }
 
 .btn.primary:hover {
@@ -128,7 +128,7 @@ nav ul li a.active {
 }
 
 .btn.secondary:hover {
-    background-color: #4a6cf7;
+    background-color: blue;
     color: white;
 }
 
@@ -251,4 +251,5 @@ footer {
         flex-direction: column;
     }
 }
+
 
