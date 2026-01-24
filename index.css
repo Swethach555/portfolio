@@ -112,7 +112,7 @@ nav ul li a.active {
 }
 
 .btn.primary {
-    background-color: #4a6cf7;
+    background-color: blue;
     color: white;
 }
 
@@ -251,3 +251,4 @@ footer {
         flex-direction: column;
     }
 }
+
